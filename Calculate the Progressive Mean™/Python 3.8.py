@@ -1,0 +1,1 @@
+lambda x:(m:=sum(x)/len(x),[p:=x[0],*[p:=(p+n)/2for n in x]][-1],p-m)

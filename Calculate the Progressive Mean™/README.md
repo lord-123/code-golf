@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/198884/calculate-the-progressive-mean/198911#198911

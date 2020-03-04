@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/4244/code-golf-christmas-edition-how-to-print-out-a-christmas-tree-of-height-n/197206#197206

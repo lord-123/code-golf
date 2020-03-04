@@ -1,0 +1,1 @@
+lambda n,x=0:n!=x and f(n**min(map(int,str(n))),n)or n

@@ -1,0 +1,1 @@
+f=lambda n,x=1:n==sum(sum(map(int,`i`))==sum(map(int,`x`))for i in range(x))and x or f(n,x+1)

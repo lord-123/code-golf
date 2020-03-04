@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/198491/super-permutations/198495#198495

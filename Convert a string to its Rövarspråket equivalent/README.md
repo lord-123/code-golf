@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/48117/convert-a-string-to-its-r?varspr?ket-equivalent/199410#199410

@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/174007/minimal-power-root/198888#198888

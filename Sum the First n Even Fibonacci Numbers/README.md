@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/105529/sum-the-first-n-even-fibonacci-numbers/198900#198900

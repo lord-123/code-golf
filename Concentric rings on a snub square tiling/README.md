@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/198952/concentric-rings-on-a-snub-square-tiling/198962#198962

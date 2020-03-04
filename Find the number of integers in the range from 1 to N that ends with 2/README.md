@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/200363/find-the-number-of-integers-in-the-range-from-1-to-n-that-ends-with-2/200370#200370

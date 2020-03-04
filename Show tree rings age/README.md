@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/57442/show-tree-rings-age/197195#197195

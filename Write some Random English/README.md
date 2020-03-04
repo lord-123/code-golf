@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/199139/write-some-random-english/199143#199143

@@ -1,0 +1,1 @@
+https://codegolf.stackexchange.com/questions/194480/create-a-program-that-prints-the-number-of-characters-it-has-in-words/197196#197196
